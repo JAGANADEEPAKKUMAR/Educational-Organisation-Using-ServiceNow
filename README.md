@@ -1,4 +1,5 @@
-Educational Organisation Using ServiceNow
+**Educational Organisation Using ServiceNow**
+
 1. Project Overview
 The Educational Management System (EMS) is a streamlined solution built on the ServiceNow platform to enhance administrative efficiency within educational institutions. It manages student and teacher data, simplifies the admission process, and provides tools for tracking academic progress. By implementing EMS in ServiceNow, institutions benefit from a user-friendly, customizable, and automated environment that supports better decision-making and operational management.
 
